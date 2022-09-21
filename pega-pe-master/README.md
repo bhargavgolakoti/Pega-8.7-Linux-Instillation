@@ -21,7 +21,7 @@ Install GIT on the VM , by the below set of commands :
 
 Now run the below git command to clone the required script.
 
-    git clone https://github.com/sunilsankar/pega-pe.git
+    git clone https://github.com/bhargavgolakoti/Pega-8.7-Linux-Instillation/tree/main/pega-pe-master.git
 
 Now go inside the pega-pe folder, and execute the install script using the below set of commands :
 
